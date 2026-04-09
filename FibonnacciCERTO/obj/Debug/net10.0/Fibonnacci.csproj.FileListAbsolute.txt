@@ -1,0 +1,14 @@
+C:\Users\dev\Desktop\aprendendocsharp\Fibonnacci\Fibonnacci\bin\Debug\net10.0\Fibonnacci.exe
+C:\Users\dev\Desktop\aprendendocsharp\Fibonnacci\Fibonnacci\bin\Debug\net10.0\Fibonnacci.deps.json
+C:\Users\dev\Desktop\aprendendocsharp\Fibonnacci\Fibonnacci\bin\Debug\net10.0\Fibonnacci.runtimeconfig.json
+C:\Users\dev\Desktop\aprendendocsharp\Fibonnacci\Fibonnacci\bin\Debug\net10.0\Fibonnacci.dll
+C:\Users\dev\Desktop\aprendendocsharp\Fibonnacci\Fibonnacci\bin\Debug\net10.0\Fibonnacci.pdb
+C:\Users\dev\Desktop\aprendendocsharp\Fibonnacci\Fibonnacci\obj\Debug\net10.0\Fibonnacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\aprendendocsharp\Fibonnacci\Fibonnacci\obj\Debug\net10.0\Fibonnacci.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\Fibonnacci\Fibonnacci\obj\Debug\net10.0\Fibonnacci.AssemblyInfo.cs
+C:\Users\dev\Desktop\aprendendocsharp\Fibonnacci\Fibonnacci\obj\Debug\net10.0\Fibonnacci.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\Fibonnacci\Fibonnacci\obj\Debug\net10.0\Fibonnacci.dll
+C:\Users\dev\Desktop\aprendendocsharp\Fibonnacci\Fibonnacci\obj\Debug\net10.0\refint\Fibonnacci.dll
+C:\Users\dev\Desktop\aprendendocsharp\Fibonnacci\Fibonnacci\obj\Debug\net10.0\Fibonnacci.pdb
+C:\Users\dev\Desktop\aprendendocsharp\Fibonnacci\Fibonnacci\obj\Debug\net10.0\Fibonnacci.genruntimeconfig.cache
+C:\Users\dev\Desktop\aprendendocsharp\Fibonnacci\Fibonnacci\obj\Debug\net10.0\ref\Fibonnacci.dll
