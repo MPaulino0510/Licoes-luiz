@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\Tabuada f\u00E1cil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51E2841A-66AC-41D0-B197-4A154C5BCA2E}|Tabuada f\u00E1cil\\Tabuada f\u00E1cil.csproj|c:\\users\\dev\\desktop\\aprendendocsharp\\tabuada f\u00E1cil\\tabuada f\u00E1cil\\tabuada ruim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E2841A-66AC-41D0-B197-4A154C5BCA2E}|Tabuada f\u00E1cil\\Tabuada f\u00E1cil.csproj|solutionrelative:tabuada f\u00E1cil\\tabuada ruim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tabuada ruim.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\Tabuada f\u00E1cil\\Tabuada f\u00E1cil\\Tabuada ruim.cs",
+              "RelativeDocumentMoniker": "Tabuada f\u00E1cil\\Tabuada ruim.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\Tabuada f\u00E1cil\\Tabuada f\u00E1cil\\Tabuada ruim.cs",
+              "RelativeToolTip": "Tabuada f\u00E1cil\\Tabuada ruim.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAHAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T11:59:29.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

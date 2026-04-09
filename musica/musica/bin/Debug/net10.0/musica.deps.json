@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "musica/1.0.0": {
+        "dependencies": {
+          "System.Windows.Extensions": "10.0.3"
+        },
+        "runtime": {
+          "musica.dll": {}
+        }
+      },
+      "System.Windows.Extensions/10.0.3": {
+        "runtime": {
+          "lib/net10.0/System.Windows.Extensions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.326.7603"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net10.0/System.Windows.Extensions.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.326.7603"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "musica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Windows.Extensions/10.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TZ/9e7JLxAT3j66XuNh7Bbqfz1m7UZC92uLknoldmALo82OYhrb4e8LGQ0S3umh2M+JQ94qQpLvPXIkmyuMraw==",
+      "path": "system.windows.extensions/10.0.3",
+      "hashPath": "system.windows.extensions.10.0.3.nupkg.sha512"
+    }
+  }
+}

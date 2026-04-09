@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\jogo velho\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{003F9456-A12C-41A4-8283-0E306D6A4B9A}|jogo velho\\jogo velho.csproj|c:\\users\\dev\\desktop\\aprendendocsharp\\jogo velho\\jogo velho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003F9456-A12C-41A4-8283-0E306D6A4B9A}|jogo velho\\jogo velho.csproj|solutionrelative:jogo velho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\jogo velho\\jogo velho\\Program.cs",
+              "RelativeDocumentMoniker": "jogo velho\\Program.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\jogo velho\\jogo velho\\Program.cs*",
+              "RelativeToolTip": "jogo velho\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:54:47.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

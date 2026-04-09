@@ -1,0 +1,14 @@
+C:\Users\dev\Desktop\aprendendocsharp\Fibonacci\Fibonacci\obj\Debug\net10.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\aprendendocsharp\Fibonacci\Fibonacci\obj\Debug\net10.0\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\Fibonacci\Fibonacci\obj\Debug\net10.0\Fibonacci.AssemblyInfo.cs
+C:\Users\dev\Desktop\aprendendocsharp\Fibonacci\Fibonacci\obj\Debug\net10.0\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\Fibonacci\Fibonacci\bin\Debug\net10.0\Fibonacci.exe
+C:\Users\dev\Desktop\aprendendocsharp\Fibonacci\Fibonacci\bin\Debug\net10.0\Fibonacci.deps.json
+C:\Users\dev\Desktop\aprendendocsharp\Fibonacci\Fibonacci\bin\Debug\net10.0\Fibonacci.runtimeconfig.json
+C:\Users\dev\Desktop\aprendendocsharp\Fibonacci\Fibonacci\bin\Debug\net10.0\Fibonacci.dll
+C:\Users\dev\Desktop\aprendendocsharp\Fibonacci\Fibonacci\bin\Debug\net10.0\Fibonacci.pdb
+C:\Users\dev\Desktop\aprendendocsharp\Fibonacci\Fibonacci\obj\Debug\net10.0\Fibonacci.dll
+C:\Users\dev\Desktop\aprendendocsharp\Fibonacci\Fibonacci\obj\Debug\net10.0\refint\Fibonacci.dll
+C:\Users\dev\Desktop\aprendendocsharp\Fibonacci\Fibonacci\obj\Debug\net10.0\Fibonacci.pdb
+C:\Users\dev\Desktop\aprendendocsharp\Fibonacci\Fibonacci\obj\Debug\net10.0\Fibonacci.genruntimeconfig.cache
+C:\Users\dev\Desktop\aprendendocsharp\Fibonacci\Fibonacci\obj\Debug\net10.0\ref\Fibonacci.dll

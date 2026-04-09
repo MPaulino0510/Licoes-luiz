@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\Jogo forca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC73CD9-3492-4D67-A2E2-680F32F5A8D7}|Jogo forca\\Jogo forca.csproj|c:\\users\\dev\\desktop\\aprendendocsharp\\jogo forca\\jogo forca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC73CD9-3492-4D67-A2E2-680F32F5A8D7}|Jogo forca\\Jogo forca.csproj|solutionrelative:jogo forca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\Jogo forca\\Jogo forca\\Program.cs",
+              "RelativeDocumentMoniker": "Jogo forca\\Program.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\Jogo forca\\Jogo forca\\Program.cs*",
+              "RelativeToolTip": "Jogo forca\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T11:07:45.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

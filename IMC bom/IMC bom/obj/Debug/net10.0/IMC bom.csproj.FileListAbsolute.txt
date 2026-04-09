@@ -1,0 +1,25 @@
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\bin\Debug\net10.0\IMC bom.exe
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\bin\Debug\net10.0\IMC bom.deps.json
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\bin\Debug\net10.0\IMC bom.runtimeconfig.json
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\bin\Debug\net10.0\IMC bom.dll
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\bin\Debug\net10.0\IMC bom.pdb
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\bin\Debug\net10.0\NAudio.dll
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\bin\Debug\net10.0\NAudio.Asio.dll
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\bin\Debug\net10.0\NAudio.Core.dll
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\bin\Debug\net10.0\NAudio.Midi.dll
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\bin\Debug\net10.0\NAudio.Wasapi.dll
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\bin\Debug\net10.0\NAudio.WinMM.dll
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\obj\Debug\net10.0\IMC bom.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\obj\Debug\net10.0\IMC bom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\obj\Debug\net10.0\IMC bom.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\obj\Debug\net10.0\IMC bom.AssemblyInfo.cs
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\obj\Debug\net10.0\IMC bom.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\obj\Debug\net10.0\IMC bom.csproj.Up2Date
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\obj\Debug\net10.0\IMC bom.dll
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\obj\Debug\net10.0\refint\IMC bom.dll
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\obj\Debug\net10.0\IMC bom.pdb
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\obj\Debug\net10.0\IMC bom.genruntimeconfig.cache
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\obj\Debug\net10.0\ref\IMC bom.dll
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\bin\Debug\net10.0\Correto.mp3
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\bin\Debug\net10.0\Erro.mp3
+C:\Users\dev\Desktop\aprendendocsharp\IMC bom\IMC bom\bin\Debug\net10.0\Mario.wav

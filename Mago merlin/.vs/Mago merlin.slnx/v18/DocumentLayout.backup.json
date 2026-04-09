@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\Mago merlin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1153541E-68C8-A4B8-F505-D0BB83553D1B}|Mago merlin\\Mago merlin.csproj|c:\\users\\dev\\desktop\\aprendendocsharp\\mago merlin\\mago merlin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1153541E-68C8-A4B8-F505-D0BB83553D1B}|Mago merlin\\Mago merlin.csproj|solutionrelative:mago merlin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\Mago merlin\\Mago merlin\\Program.cs",
+              "RelativeDocumentMoniker": "Mago merlin\\Program.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\Mago merlin\\Mago merlin\\Program.cs",
+              "RelativeToolTip": "Mago merlin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:27:03.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

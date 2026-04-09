@@ -1,0 +1,14 @@
+C:\Users\dev\Desktop\aprendendocsharp\Metros\Metros\obj\Debug\net10.0\Metros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\aprendendocsharp\Metros\Metros\obj\Debug\net10.0\Metros.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\Metros\Metros\obj\Debug\net10.0\Metros.AssemblyInfo.cs
+C:\Users\dev\Desktop\aprendendocsharp\Metros\Metros\obj\Debug\net10.0\Metros.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\Metros\Metros\bin\Debug\net10.0\Metros.exe
+C:\Users\dev\Desktop\aprendendocsharp\Metros\Metros\bin\Debug\net10.0\Metros.deps.json
+C:\Users\dev\Desktop\aprendendocsharp\Metros\Metros\bin\Debug\net10.0\Metros.runtimeconfig.json
+C:\Users\dev\Desktop\aprendendocsharp\Metros\Metros\bin\Debug\net10.0\Metros.dll
+C:\Users\dev\Desktop\aprendendocsharp\Metros\Metros\bin\Debug\net10.0\Metros.pdb
+C:\Users\dev\Desktop\aprendendocsharp\Metros\Metros\obj\Debug\net10.0\Metros.dll
+C:\Users\dev\Desktop\aprendendocsharp\Metros\Metros\obj\Debug\net10.0\refint\Metros.dll
+C:\Users\dev\Desktop\aprendendocsharp\Metros\Metros\obj\Debug\net10.0\Metros.pdb
+C:\Users\dev\Desktop\aprendendocsharp\Metros\Metros\obj\Debug\net10.0\Metros.genruntimeconfig.cache
+C:\Users\dev\Desktop\aprendendocsharp\Metros\Metros\obj\Debug\net10.0\ref\Metros.dll

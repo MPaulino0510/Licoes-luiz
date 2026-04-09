@@ -1,0 +1,14 @@
+C:\Users\dev\Desktop\aprendendocsharp\Celsius\Celsius\bin\Debug\net10.0\Celsius.exe
+C:\Users\dev\Desktop\aprendendocsharp\Celsius\Celsius\bin\Debug\net10.0\Celsius.deps.json
+C:\Users\dev\Desktop\aprendendocsharp\Celsius\Celsius\bin\Debug\net10.0\Celsius.runtimeconfig.json
+C:\Users\dev\Desktop\aprendendocsharp\Celsius\Celsius\bin\Debug\net10.0\Celsius.dll
+C:\Users\dev\Desktop\aprendendocsharp\Celsius\Celsius\bin\Debug\net10.0\Celsius.pdb
+C:\Users\dev\Desktop\aprendendocsharp\Celsius\Celsius\obj\Debug\net10.0\Celsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\aprendendocsharp\Celsius\Celsius\obj\Debug\net10.0\Celsius.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\Celsius\Celsius\obj\Debug\net10.0\Celsius.AssemblyInfo.cs
+C:\Users\dev\Desktop\aprendendocsharp\Celsius\Celsius\obj\Debug\net10.0\Celsius.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\Celsius\Celsius\obj\Debug\net10.0\Celsius.dll
+C:\Users\dev\Desktop\aprendendocsharp\Celsius\Celsius\obj\Debug\net10.0\refint\Celsius.dll
+C:\Users\dev\Desktop\aprendendocsharp\Celsius\Celsius\obj\Debug\net10.0\Celsius.pdb
+C:\Users\dev\Desktop\aprendendocsharp\Celsius\Celsius\obj\Debug\net10.0\Celsius.genruntimeconfig.cache
+C:\Users\dev\Desktop\aprendendocsharp\Celsius\Celsius\obj\Debug\net10.0\ref\Celsius.dll

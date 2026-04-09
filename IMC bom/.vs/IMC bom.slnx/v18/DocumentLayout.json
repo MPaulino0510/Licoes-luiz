@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\IMC bom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{248A8BD1-5526-917F-310A-5222F84709C5}|IMC bom\\IMC bom.csproj|c:\\users\\dev\\desktop\\aprendendocsharp\\imc bom\\imc bom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248A8BD1-5526-917F-310A-5222F84709C5}|IMC bom\\IMC bom.csproj|solutionrelative:imc bom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\IMC bom\\IMC bom\\Program.cs",
+              "RelativeDocumentMoniker": "IMC bom\\Program.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\IMC bom\\IMC bom\\Program.cs",
+              "RelativeToolTip": "IMC bom\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwCwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T19:30:26.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

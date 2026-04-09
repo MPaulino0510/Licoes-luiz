@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\co\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F253C73E-7AE3-4B69-A274-23E2E8E019E4}|co\\co.csproj|c:\\users\\dev\\desktop\\aprendendocsharp\\co\\co\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F253C73E-7AE3-4B69-A274-23E2E8E019E4}|co\\co.csproj|solutionrelative:co\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\co\\co\\Program.cs",
+              "RelativeDocumentMoniker": "co\\Program.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\co\\co\\Program.cs",
+              "RelativeToolTip": "co\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAADwv3YAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:29:33.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

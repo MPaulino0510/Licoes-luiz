@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\C\u00E1lculo de idades c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{854EE7E6-5D8A-4AB8-A330-4A0FB929BFE2}|C\u00E1lculo de idades c\\C\u00E1lculo de idades c.csproj|c:\\users\\dev\\desktop\\aprendendocsharp\\c\u00E1lculo de idades c\\c\u00E1lculo de idades c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854EE7E6-5D8A-4AB8-A330-4A0FB929BFE2}|C\u00E1lculo de idades c\\C\u00E1lculo de idades c.csproj|solutionrelative:c\u00E1lculo de idades c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\C\u00E1lculo de idades c\\C\u00E1lculo de idades c\\Program.cs",
+              "RelativeDocumentMoniker": "C\u00E1lculo de idades c\\Program.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\C\u00E1lculo de idades c\\C\u00E1lculo de idades c\\Program.cs*",
+              "RelativeToolTip": "C\u00E1lculo de idades c\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:12:03.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\dev\Desktop\aprendendocsharp\calculadora\calculadora\bin\Debug\net10.0\calculadora.exe
+C:\Users\dev\Desktop\aprendendocsharp\calculadora\calculadora\bin\Debug\net10.0\calculadora.deps.json
+C:\Users\dev\Desktop\aprendendocsharp\calculadora\calculadora\bin\Debug\net10.0\calculadora.runtimeconfig.json
+C:\Users\dev\Desktop\aprendendocsharp\calculadora\calculadora\bin\Debug\net10.0\calculadora.dll
+C:\Users\dev\Desktop\aprendendocsharp\calculadora\calculadora\bin\Debug\net10.0\calculadora.pdb
+C:\Users\dev\Desktop\aprendendocsharp\calculadora\calculadora\obj\Debug\net10.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\aprendendocsharp\calculadora\calculadora\obj\Debug\net10.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\calculadora\calculadora\obj\Debug\net10.0\calculadora.AssemblyInfo.cs
+C:\Users\dev\Desktop\aprendendocsharp\calculadora\calculadora\obj\Debug\net10.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\calculadora\calculadora\obj\Debug\net10.0\calculadora.dll
+C:\Users\dev\Desktop\aprendendocsharp\calculadora\calculadora\obj\Debug\net10.0\refint\calculadora.dll
+C:\Users\dev\Desktop\aprendendocsharp\calculadora\calculadora\obj\Debug\net10.0\calculadora.pdb
+C:\Users\dev\Desktop\aprendendocsharp\calculadora\calculadora\obj\Debug\net10.0\calculadora.genruntimeconfig.cache
+C:\Users\dev\Desktop\aprendendocsharp\calculadora\calculadora\obj\Debug\net10.0\ref\calculadora.dll

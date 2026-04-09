@@ -1,0 +1,14 @@
+C:\Users\dev\Desktop\aprendendocsharp\Testes\Testes\obj\Debug\net10.0\Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\aprendendocsharp\Testes\Testes\obj\Debug\net10.0\Testes.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\Testes\Testes\obj\Debug\net10.0\Testes.AssemblyInfo.cs
+C:\Users\dev\Desktop\aprendendocsharp\Testes\Testes\obj\Debug\net10.0\Testes.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\Testes\Testes\bin\Debug\net10.0\Testes.exe
+C:\Users\dev\Desktop\aprendendocsharp\Testes\Testes\bin\Debug\net10.0\Testes.deps.json
+C:\Users\dev\Desktop\aprendendocsharp\Testes\Testes\bin\Debug\net10.0\Testes.runtimeconfig.json
+C:\Users\dev\Desktop\aprendendocsharp\Testes\Testes\bin\Debug\net10.0\Testes.dll
+C:\Users\dev\Desktop\aprendendocsharp\Testes\Testes\bin\Debug\net10.0\Testes.pdb
+C:\Users\dev\Desktop\aprendendocsharp\Testes\Testes\obj\Debug\net10.0\Testes.dll
+C:\Users\dev\Desktop\aprendendocsharp\Testes\Testes\obj\Debug\net10.0\refint\Testes.dll
+C:\Users\dev\Desktop\aprendendocsharp\Testes\Testes\obj\Debug\net10.0\Testes.pdb
+C:\Users\dev\Desktop\aprendendocsharp\Testes\Testes\obj\Debug\net10.0\Testes.genruntimeconfig.cache
+C:\Users\dev\Desktop\aprendendocsharp\Testes\Testes\obj\Debug\net10.0\ref\Testes.dll

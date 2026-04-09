@@ -1,0 +1,14 @@
+C:\Users\dev\Desktop\aprendendocsharp\Saida\Saida\bin\Debug\net10.0\Saida.exe
+C:\Users\dev\Desktop\aprendendocsharp\Saida\Saida\bin\Debug\net10.0\Saida.deps.json
+C:\Users\dev\Desktop\aprendendocsharp\Saida\Saida\bin\Debug\net10.0\Saida.runtimeconfig.json
+C:\Users\dev\Desktop\aprendendocsharp\Saida\Saida\bin\Debug\net10.0\Saida.dll
+C:\Users\dev\Desktop\aprendendocsharp\Saida\Saida\bin\Debug\net10.0\Saida.pdb
+C:\Users\dev\Desktop\aprendendocsharp\Saida\Saida\obj\Debug\net10.0\Saida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\aprendendocsharp\Saida\Saida\obj\Debug\net10.0\Saida.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\Saida\Saida\obj\Debug\net10.0\Saida.AssemblyInfo.cs
+C:\Users\dev\Desktop\aprendendocsharp\Saida\Saida\obj\Debug\net10.0\Saida.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\Saida\Saida\obj\Debug\net10.0\Saida.dll
+C:\Users\dev\Desktop\aprendendocsharp\Saida\Saida\obj\Debug\net10.0\refint\Saida.dll
+C:\Users\dev\Desktop\aprendendocsharp\Saida\Saida\obj\Debug\net10.0\Saida.pdb
+C:\Users\dev\Desktop\aprendendocsharp\Saida\Saida\obj\Debug\net10.0\Saida.genruntimeconfig.cache
+C:\Users\dev\Desktop\aprendendocsharp\Saida\Saida\obj\Debug\net10.0\ref\Saida.dll

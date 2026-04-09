@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\Primos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4636BE3A-EA6D-935D-6074-6474BD6841B3}|Primos\\Primos.csproj|c:\\users\\dev\\desktop\\aprendendocsharp\\primos\\primos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4636BE3A-EA6D-935D-6074-6474BD6841B3}|Primos\\Primos.csproj|solutionrelative:primos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4636BE3A-EA6D-935D-6074-6474BD6841B3}|Primos\\Primos.csproj|c:\\users\\dev\\desktop\\aprendendocsharp\\primos\\primos\\primos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4636BE3A-EA6D-935D-6074-6474BD6841B3}|Primos\\Primos.csproj|solutionrelative:primos\\primos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4636BE3A-EA6D-935D-6074-6474BD6841B3}|Primos\\Primos.csproj|c:\\users\\dev\\desktop\\aprendendocsharp\\primos\\primos\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4636BE3A-EA6D-935D-6074-6474BD6841B3}|Primos\\Primos.csproj|solutionrelative:primos\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Primos",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\Primos\\Primos\\Primos.csproj",
+              "RelativeDocumentMoniker": "Primos\\Primos.csproj",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\Primos\\Primos\\Primos.csproj",
+              "RelativeToolTip": "Primos\\Primos.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-26T13:43:31.867Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\Primos\\Primos\\Program.cs",
+              "RelativeDocumentMoniker": "Primos\\Program.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\Primos\\Primos\\Program.cs",
+              "RelativeToolTip": "Primos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:32:35.068Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\Primos\\Primos\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Primos\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\Primos\\Primos\\Properties\\Resources.resx",
+              "RelativeToolTip": "Primos\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-26T13:46:32.291Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

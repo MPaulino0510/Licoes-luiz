@@ -1,0 +1,14 @@
+C:\Users\dev\Desktop\aprendendocsharp\Conversor de moeda\Conversor de moeda\bin\Debug\net10.0\Conversor de moeda.exe
+C:\Users\dev\Desktop\aprendendocsharp\Conversor de moeda\Conversor de moeda\bin\Debug\net10.0\Conversor de moeda.deps.json
+C:\Users\dev\Desktop\aprendendocsharp\Conversor de moeda\Conversor de moeda\bin\Debug\net10.0\Conversor de moeda.runtimeconfig.json
+C:\Users\dev\Desktop\aprendendocsharp\Conversor de moeda\Conversor de moeda\bin\Debug\net10.0\Conversor de moeda.dll
+C:\Users\dev\Desktop\aprendendocsharp\Conversor de moeda\Conversor de moeda\bin\Debug\net10.0\Conversor de moeda.pdb
+C:\Users\dev\Desktop\aprendendocsharp\Conversor de moeda\Conversor de moeda\obj\Debug\net10.0\Conversor de moeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\aprendendocsharp\Conversor de moeda\Conversor de moeda\obj\Debug\net10.0\Conversor de moeda.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\Conversor de moeda\Conversor de moeda\obj\Debug\net10.0\Conversor de moeda.AssemblyInfo.cs
+C:\Users\dev\Desktop\aprendendocsharp\Conversor de moeda\Conversor de moeda\obj\Debug\net10.0\Conversor de moeda.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\Conversor de moeda\Conversor de moeda\obj\Debug\net10.0\Conversor de moeda.dll
+C:\Users\dev\Desktop\aprendendocsharp\Conversor de moeda\Conversor de moeda\obj\Debug\net10.0\refint\Conversor de moeda.dll
+C:\Users\dev\Desktop\aprendendocsharp\Conversor de moeda\Conversor de moeda\obj\Debug\net10.0\Conversor de moeda.pdb
+C:\Users\dev\Desktop\aprendendocsharp\Conversor de moeda\Conversor de moeda\obj\Debug\net10.0\Conversor de moeda.genruntimeconfig.cache
+C:\Users\dev\Desktop\aprendendocsharp\Conversor de moeda\Conversor de moeda\obj\Debug\net10.0\ref\Conversor de moeda.dll

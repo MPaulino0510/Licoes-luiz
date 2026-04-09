@@ -1,0 +1,14 @@
+C:\Users\dev\Desktop\aprendendocsharp\co\co\bin\Debug\net10.0\co.exe
+C:\Users\dev\Desktop\aprendendocsharp\co\co\bin\Debug\net10.0\co.deps.json
+C:\Users\dev\Desktop\aprendendocsharp\co\co\bin\Debug\net10.0\co.runtimeconfig.json
+C:\Users\dev\Desktop\aprendendocsharp\co\co\bin\Debug\net10.0\co.dll
+C:\Users\dev\Desktop\aprendendocsharp\co\co\bin\Debug\net10.0\co.pdb
+C:\Users\dev\Desktop\aprendendocsharp\co\co\obj\Debug\net10.0\co.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\aprendendocsharp\co\co\obj\Debug\net10.0\co.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\co\co\obj\Debug\net10.0\co.AssemblyInfo.cs
+C:\Users\dev\Desktop\aprendendocsharp\co\co\obj\Debug\net10.0\co.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\co\co\obj\Debug\net10.0\co.dll
+C:\Users\dev\Desktop\aprendendocsharp\co\co\obj\Debug\net10.0\refint\co.dll
+C:\Users\dev\Desktop\aprendendocsharp\co\co\obj\Debug\net10.0\co.pdb
+C:\Users\dev\Desktop\aprendendocsharp\co\co\obj\Debug\net10.0\co.genruntimeconfig.cache
+C:\Users\dev\Desktop\aprendendocsharp\co\co\obj\Debug\net10.0\ref\co.dll

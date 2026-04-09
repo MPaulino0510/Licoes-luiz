@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Atividade Heroi/1.0.0": {
+        "runtime": {
+          "Atividade Heroi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade Heroi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\Atividade Heroi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2647EF-91A5-4388-86C6-337D635D0FD8}|Atividade Heroi\\Atividade Heroi.csproj|c:\\users\\dev\\desktop\\aprendendocsharp\\atividade heroi\\atividade heroi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2647EF-91A5-4388-86C6-337D635D0FD8}|Atividade Heroi\\Atividade Heroi.csproj|solutionrelative:atividade heroi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\Atividade Heroi\\Atividade Heroi\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade Heroi\\Program.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\Atividade Heroi\\Atividade Heroi\\Program.cs*",
+              "RelativeToolTip": "Atividade Heroi\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:08:38.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

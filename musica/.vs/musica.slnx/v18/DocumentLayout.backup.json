@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\musica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B50A5715-F7C8-2452-CA17-7986BF063DEA}|musica\\musica.csproj|c:\\users\\dev\\desktop\\aprendendocsharp\\musica\\musica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50A5715-F7C8-2452-CA17-7986BF063DEA}|musica\\musica.csproj|solutionrelative:musica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\musica\\musica\\Program.cs",
+              "RelativeDocumentMoniker": "musica\\Program.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\musica\\musica\\Program.cs*",
+              "RelativeToolTip": "musica\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T14:33:48.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

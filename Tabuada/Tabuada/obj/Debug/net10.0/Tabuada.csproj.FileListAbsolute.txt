@@ -1,0 +1,14 @@
+C:\Users\dev\Desktop\aprendendocsharp\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\aprendendocsharp\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.AssemblyInfo.cs
+C:\Users\dev\Desktop\aprendendocsharp\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\Tabuada\Tabuada\bin\Debug\net10.0\Tabuada.exe
+C:\Users\dev\Desktop\aprendendocsharp\Tabuada\Tabuada\bin\Debug\net10.0\Tabuada.deps.json
+C:\Users\dev\Desktop\aprendendocsharp\Tabuada\Tabuada\bin\Debug\net10.0\Tabuada.runtimeconfig.json
+C:\Users\dev\Desktop\aprendendocsharp\Tabuada\Tabuada\bin\Debug\net10.0\Tabuada.dll
+C:\Users\dev\Desktop\aprendendocsharp\Tabuada\Tabuada\bin\Debug\net10.0\Tabuada.pdb
+C:\Users\dev\Desktop\aprendendocsharp\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.dll
+C:\Users\dev\Desktop\aprendendocsharp\Tabuada\Tabuada\obj\Debug\net10.0\refint\Tabuada.dll
+C:\Users\dev\Desktop\aprendendocsharp\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.pdb
+C:\Users\dev\Desktop\aprendendocsharp\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.genruntimeconfig.cache
+C:\Users\dev\Desktop\aprendendocsharp\Tabuada\Tabuada\obj\Debug\net10.0\ref\Tabuada.dll

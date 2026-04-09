@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GvSgGrbms7A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dev\\Desktop\\aprendendocsharp\\musica\\musica\\musica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dev\\.nuget\\packages\\system.windows.extensions\\10.0.3\\system.windows.extensions.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
