@@ -1,0 +1,29 @@
+namespace Filtro
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Escreva ou cole aqui um texto que deseja encontrar alguma palavra:");
+            string texto = Console.ReadLine().Replace(",", "").Replace(".", "").Replace("\n", "");
+            Console.WriteLine("\nEscreva aqui a palavra que deseja encontrar no texto colado/digitado:");
+            string palavra = Console.ReadLine().Trim();
+            string[] array = texto.Split();
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (array[i].ToLower() == palavra.ToLower())
+                {
+                    int inicio = Math.Max(0, i - 3);
+                    int final = Math.Min(array.Length - 1, i +3);
+                    Console.WriteLine("\nSua palavra foi encontrada em:");
+                    for (int escrever = inicio; escrever <= final; escrever++)
+                    {
+                        Console.Write($"{array[escrever]}" + " ");
+                    }
+                    Console.WriteLine();
+                    Console.WriteLine();
+                }
+            }
+        }
+    }
+}

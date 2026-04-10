@@ -1,0 +1,81 @@
+//Conversor de temperaturas
+using System.Globalization;
+
+namespace Conversor 
+ 
+{
+    internal class Program
+    {
+        static void Main()
+        {
+            //Emojis
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+
+            //Textos iniciais
+            Console.WriteLine("##################################################");
+            Console.WriteLine("Olá, seja bem vindo à transformadora automática de\n" +
+                "temperaturas 🌡️🌡️😎");
+            Console.WriteLine("\n\nDigite 1 para converter Celsius C° para Fahrenheit F°");
+            Console.WriteLine("\nDigite 2 para converter Fahrenheit F° para Celsius C°");
+            Console.WriteLine("\nDigite 3 para converter Kelvin K para Celsius C°");
+            Console.WriteLine("\nDigite 4 para converter Kelvin K para Fahrenheit F°");
+            Console.WriteLine("\n##################################################");
+
+            //Definição da opção escolhida com a variável de possivelescrita de letras
+            if (!int.TryParse(Console.ReadLine(), out int opcao))
+            {
+                Console.WriteLine("❌ Opção inválida!");
+                return;
+            }
+
+            //Mais texto de escolha da temperatura
+            Console.WriteLine("\nEscreva aqui o valor da temperatura");
+
+            //Definição da temperatura escolhida com a variável de possível escrita de letras
+            if (!float.TryParse(Console.ReadLine(), CultureInfo.InvariantCulture, out float valor))
+            {
+                Console.WriteLine("❌ Valor inválido!");
+                return;
+            }
+
+            //Conversor de Celsius para Fahrenheit
+            if (opcao == 1)
+            {
+                float resultado = (valor * 9f / 5f) + 32f;
+                Console.WriteLine($"A conversão de Celsius C° para Fahrenheit F° é: \n{resultado:F2}✔️");
+            }
+
+            //Conversor de Fahrenheit para Celsiu
+            else if (opcao == 2)
+            {
+                float resultado = (valor - 32f) * 5f / 9f;
+                Console.WriteLine($"A conversão de Fahrenheit F° para Celsius C° é: \n{resultado:F2}✔️");
+            }
+
+            //Conversor de Kelvin para Celsius
+            else if (opcao == 3)
+            {
+                float resultado = (valor - 273.15f);
+                Console.WriteLine($"A conversão de Kelvin para Celsius C° é: \n{resultado:F2}✔️");
+            }
+
+            //Conversor de Kelvin para Fahrenheit
+            else if (opcao == 4)
+            {
+                float resultado = (valor - 273.15f) * 9f / 5f + 32f;
+                Console.WriteLine($"A conversão de Kelvin para Fahrenheit F° é: \n{resultado:F2}✔️");
+            }
+
+            //Se ele escolheu um número fora do âmbito acima
+            else
+            {
+                Console.WriteLine("Você não escolheu uma opção válida (erro ❌)");
+            }
+            Console.WriteLine("##################################################");
+            bool sucesso = true;
+            Console.WriteLine($"EntendiMateria: {sucesso}");
+
+
+        }
+    }
+}

@@ -1,0 +1,95 @@
+namespace Desafio_Heroi
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Qual será o nome do seu Herói?");
+            string heroi = Console.ReadLine();
+            Console.WriteLine($"Bem-vindo, {heroi}!! Prepare-se para enfrentar o dragão!!");
+            Console.WriteLine("\nDigite a classe do seu herói: Mago, Clérigo, Guerreiro, Druida, Anão, Elfo ou Troll");
+            string classe = Console.ReadLine();
+            if (classe == "Mago" || classe == "Druida" || classe == "Clérigo")
+            {
+                Console.WriteLine("Você é um herói de magia!!");
+            }
+            if (classe == "Guerreiro" || classe == "Anão" || classe == "Elfo")
+            {
+                Console.WriteLine("Você é um herói de força!!");
+            }
+
+            Console.WriteLine("Nível:");
+            int nivel = int.Parse(Console.ReadLine());
+            Console.WriteLine("HP (pontos de vida):");
+            float.TryParse(Console.ReadLine(), out float HP);
+            Console.WriteLine("Digite seus pontos de magia (mana):");
+            int mana = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o quanto de ouro você possui na mochila:");
+            float.TryParse(Console.ReadLine(), out float ouro);
+            float poderBase = (nivel * 10) + (HP / 2) - 5;
+            bool falhou = false;
+            Console.WriteLine($"Seu poder base é: {poderBase}");
+
+            //trolls
+
+            if (classe == "Troll" || nivel <= 5)
+            {
+                Console.WriteLine("Você não é permitido aqui!!");
+                falhou = false;
+            }
+            //guida
+            else if (!(classe == "Troll") && nivel !<= 5)
+            {
+                Console.WriteLine("Você entrou na guilda!!");
+            }
+
+            //magos
+
+            if (classe == "Mago" || classe == "Druida" || classe == "Clérigo") 
+                if (mana <= 30 && nivel <= 100)
+                {
+                Console.WriteLine("Seu cajado falhou!!");
+                falhou = false;
+            }
+
+            else if (classe == "Mago" || classe == "Druida" || classe == "Clérigo" && mana >= 30 && nivel <= 100)
+            {
+                Console.WriteLine($"Seu cajado atingiu o dragão!! Você acertou mais {poderBase} de dano!!");
+                //colocar no final:
+                if (poderBase % 2 == 0)
+                {
+                    Console.WriteLine("Você é um herói de sorte!! Dano bônus!!");
+                }
+
+            }
+
+            //guerreiros
+
+            if (classe == "Guerreiro" || classe == "Anão" || classe == "Elfo" && HP > 20 && poderBase > 50)
+            {
+                Console.WriteLine("Você acertou um golpe crítico no dragão!!");
+                //colocar no final:
+                if (poderBase % 2 == 0)
+                {
+                    Console.WriteLine("Você é um herói de sorte!! Dano bônus!!");
+                }
+
+            }
+            else if (classe == "Guerreiro" || classe == "Anão" || classe == "Elfo" && HP! < 20 && poderBase! < 50)
+            {
+                Console.WriteLine("Seu golpe falhou!! O dragão não sofreu dano!!");
+                falhou = false;
+            }
+
+            //suborno
+            if (falhou == false && ouro >= 1000 || classe == "Anão")
+            {
+                Console.WriteLine("Você pode subornar o dragão!!");
+            }
+            else if (falhou != false && ouro! < 1000)
+            {
+                Console.WriteLine("Você se churrascou!! Tente novamente!!");
+            }
+        }
+    }
+}
